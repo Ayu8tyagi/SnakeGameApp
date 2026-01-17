@@ -3,7 +3,7 @@ import java.awt.event.*;
 import javax.swing.*;
 import java.util.Random;
 
-public class GamePanel extends JPanel implements ActionListener {
+public class SnakeGameBoard extends JPanel implements ActionListener {
 
     static final int SCREEN_WIDTH = 800;
     static final int SCREEN_HEIGHT = 800;
@@ -23,7 +23,7 @@ public class GamePanel extends JPanel implements ActionListener {
     Timer timer;
     Random random;
 
-    GamePanel() {
+    public  SnakeGameBoard() {
         random = new Random();
         this.setPreferredSize(new Dimension(SCREEN_WIDTH, SCREEN_WIDTH));
         this.setBackground(Color.black);

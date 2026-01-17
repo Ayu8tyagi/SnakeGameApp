@@ -1,12 +1,12 @@
 import javax.swing.*;
 import java.awt.*;
 
-public class GameFrame extends JFrame {
+public class SnakeGameWindow extends JFrame {
 
    ImageIcon icon = new ImageIcon("public/icon.png");
    Image iconImage = icon.getImage();
-    GameFrame(){
-        this.add(new GamePanel());
+    SnakeGameWindow(){
+        this.add(new SnakeGameBoard());
         this.setTitle("Snake game by DimaXDD");
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         this.setResizable(false);
