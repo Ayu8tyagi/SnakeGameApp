@@ -9,7 +9,7 @@ To run SnakeGame, you'll need:
 ### Getting Started
  1. Clone the repository:
 ```Git
-git clone https://github.com/DimaXDD/SnakeGame.git
+git clone https://github.com/Ayu8tyagi/SnakeGameApp.git
 ```
  2. Navigate to the root project directory:
 ```Git
