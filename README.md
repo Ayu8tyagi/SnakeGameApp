@@ -23,12 +23,5 @@ java SnakeGame
 ## Controls
 Control the snake using arrow keys: up, down, left, right.
 
-## Contributing
-If you'd like to contribute to SnakeGame, follow these steps:
 
-1. Fork the repository.
-2. Make your changes.
-3. Submit a pull request describing the changes.
 
-## Contact
-Feel free to reach out to me through GitHub of [Telegram](https://t.me/DimaTru) if you have any questions or suggestions.
